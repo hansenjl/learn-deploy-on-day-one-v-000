@@ -133,6 +133,12 @@ a:visited {
   height: 400px;
 }
 
+#jennifer-hansen-cover{
+  background-image: url("http://i.imgur.com/mlW2TTW.jpg")
+}
+#jennifer-hansen-card{
+  background-image: url("http://i.imgur.com/MGHVF4h.jpg");
+}
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
